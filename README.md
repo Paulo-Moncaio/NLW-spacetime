@@ -1,6 +1,6 @@
 # NLW-spacetime
 
-Aplicação full-stack, do back-end ao mobile, que funcionará como uma cápsula do tempo guardando memórias passadas numa timeline. Utilizando React, Tailwind, Node, Fastify, TypeScript, Expo, Next.js e muito mais!
+Aplicação full-stack, do back-end ao mobile, que funcionará como uma cápsula do tempo guardando memórias passadas numa timeline. Utilizando React, Tailwind, Node, Fastify, TypeScript, Expo, Next.js!
 
 ## ✨ Tecnologias
 
